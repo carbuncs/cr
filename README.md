@@ -1,2 +1,2 @@
 # ejemplo-pagina
-esbto es un ejemplo
+comenzamos el desarrollo de apps web responsive 
